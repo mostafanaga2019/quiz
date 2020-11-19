@@ -1,7 +1,4 @@
-{ 
-  "status": 200,
-  "status_message": "Success",
-  "response":
+
    [ 
     {
       "quizNumber" :  "1",        
@@ -26,4 +23,5 @@
         "option2" : "Three",
         "option3" : "Two",        
         "answer" : "Three"
-    }]}   
+    }
+   ]   

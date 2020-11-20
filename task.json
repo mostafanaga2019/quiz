@@ -15,44 +15,20 @@
         "example" : "School matters are good",
         "imageurl" : "https:\/\/www.simplifiedcoding.net\/demos\/marvel\/ironman.jpg"
     },
+    {           
+        "type" : "Academic",
+        "division" : "Verbs",
+        "vocab" : "Play",
+        "difinition" : "Play football",        
+        "example" : "The boy is playing football .",
+        "imageurl" : "https:\/\/www.simplifiedcoding.net\/demos\/marvel\/captainamerica.jpg"
+    },
     {
-        "type" : "Entertainment",
-        "division" : "Adjectives",
-        "vocab" : "Fast",
-        "difinition" : "We walk fast",        
-        "example" : "The football player run very fast", 
-        "imageurl" : "https:\/\/www.simplifiedcoding.net\/demos\/marvel\/logan.jpg"
-    },
-    {
-        "type" : "Entertainment",
-        "division" : "Adjectives",
-        "vocab" : "Fast",
-        "difinition" : "We walk fast",        
-        "example" : "The football player run very fast", 
-        "imageurl" : "https:\/\/www.simplifiedcoding.net\/demos\/marvel\/logan.jpg"
-    },
-    {           
-        "type" : "Academic",
-        "division" : "Verbs",
-        "vocab" : "Play",
-        "difinition" : "Play football",        
-        "example" : "The boy is playing football .",
-        "imageurl" : "https:\/\/www.simplifiedcoding.net\/demos\/marvel\/captainamerica.jpg"
-    },
-    {           
-        "type" : "Academic",
-        "division" : "Verbs",
-        "vocab" : "Play",
-        "difinition" : "Play football",        
-        "example" : "The boy is playing football .",
-        "imageurl" : "https:\/\/www.simplifiedcoding.net\/demos\/marvel\/captainamerica.jpg"
-    },
-    {           
-        "type" : "Academic",
-        "division" : "Verbs",
-        "vocab" : "Play",
-        "difinition" : "Play football",        
-        "example" : "The boy is playing football .",
-        "imageurl" : "https:\/\/www.simplifiedcoding.net\/demos\/marvel\/captainamerica.jpg"
+        "type" : "Educational",
+        "division" : "Nouns",
+        "vocab" : "School",
+        "difinition" : "School is great source for studing we define it as  ",        
+        "example" : "School matters are good",
+        "imageurl" : "https:\/\/www.simplifiedcoding.net\/demos\/marvel\/ironman.jpg"
     }
    ]   

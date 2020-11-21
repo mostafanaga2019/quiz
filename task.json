@@ -10,7 +10,7 @@
         "option1" : "Ferrari",
         "option2" : "Nissan",
         "option3" : "Ford",        
-        "answer" : "Ferrari."
+        "answer" : "Ferrari"
     },
     {
         "type" : "Educational",
@@ -49,6 +49,6 @@
         "option1" : "Ferrari",
         "option2" : "Nissan",
         "option3" : "Ford",        
-        "answer" : "Ferrari."
+        "answer" : "Ferrari"
     }
    ]   

@@ -5,7 +5,12 @@
         "vocab" : "Play",
         "difinition" : "Play football",        
         "example" : "The boy is playing football .",
-        "imageurl" : "https:\/\/www.simplifiedcoding.net\/demos\/marvel\/captainamerica.jpg"
+        "imageurl" : "https:\/\/www.simplifiedcoding.net\/demos\/marvel\/captainamerica.jpg",
+        "question" : "Which car manufacturer was the first to win 100 F1 races?",
+        "option1" : "Ferrari",
+        "option2" : "Nissan",
+        "option3" : "Ford",        
+        "answer" : "Ferrari."
     },
     {
         "type" : "Educational",
@@ -13,7 +18,12 @@
         "vocab" : "School",
         "difinition" : "School is great source for studing we define it as  ",        
         "example" : "School matters are good",
-        "imageurl" : "https:\/\/www.simplifiedcoding.net\/demos\/marvel\/ironman.jpg"
+        "imageurl" : "https:\/\/www.simplifiedcoding.net\/demos\/marvel\/ironman.jpg",
+        "question" : "In the professional era which woman has won the most titles at Wimbledon [singles, doubles and mixed] ?",
+        "option1" : "Venus",
+        "option2" : "Hingis",
+        "option3" : "Martina Navratilova",       
+        "answer" : "Martina Navratilova"
     },
     {           
         "type" : "Academic",
@@ -21,7 +31,12 @@
         "vocab" : "Play",
         "difinition" : "Play football",        
         "example" : "The boy is playing football .",
-        "imageurl" : "https:\/\/www.simplifiedcoding.net\/demos\/marvel\/captainamerica.jpg"
+        "imageurl" : "https:\/\/www.simplifiedcoding.net\/demos\/marvel\/captainamerica.jpg",
+        "question" : "How many times have Liverpool been relegated from the top flight of English football?",
+        "option1" : "Four",
+        "option2" : "Three",
+        "option3" : "Two",        
+        "answer" : "Three"
     },
     {
         "type" : "Educational",
@@ -29,6 +44,11 @@
         "vocab" : "School",
         "difinition" : "School is great source for studing we define it as  ",        
         "example" : "School matters are good",
-        "imageurl" : "https:\/\/www.simplifiedcoding.net\/demos\/marvel\/ironman.jpg"
+        "imageurl" : "https:\/\/www.simplifiedcoding.net\/demos\/marvel\/ironman.jpg",
+        "question" : "Which car manufacturer was the first to win 100 F1 races?",
+        "option1" : "Ferrari",
+        "option2" : "Nissan",
+        "option3" : "Ford",        
+        "answer" : "Ferrari."
     }
    ]   

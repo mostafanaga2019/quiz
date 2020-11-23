@@ -10,7 +10,8 @@
         "option1" : "Ferrari",
         "option2" : "Nissan",
         "option3" : "Ford",        
-        "answer" : "Ferrari"
+        "answer" : "Ferrari",
+        "listen" : "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content."
     },
     {
         "type" : "Educational",
@@ -23,7 +24,8 @@
         "option1" : "Venus",
         "option2" : "Hingis",
         "option3" : "Martina Navratilova",       
-        "answer" : "Martina Navratilova"
+        "answer" : "Ferrari",
+        "listen" : "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content."
     },
     {           
         "type" : "Academic",
@@ -36,7 +38,8 @@
         "option1" : "Four",
         "option2" : "Three",
         "option3" : "Two",        
-        "answer" : "Three"
+        "answer" : "Ferrari",
+        "listen" : "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content."
     },
     {
         "type" : "Iman",
@@ -49,7 +52,8 @@
         "option1" : "Ferrari",
         "option2" : "Nissan",
         "option3" : "Ford",        
-        "answer" : "Ferrari"
+        "answer" : "Ferrari",
+        "listen" : "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content."
     },
     {
         "type" : "Mostafa",
@@ -62,7 +66,8 @@
         "option1" : "Venus",
         "option2" : "Hingis",
         "option3" : "Martina Navratilova",       
-        "answer" : "Martina Navratilova"
+        "answer" : "Ferrari",
+        "listen" : "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content."
     },
     {           
         "type" : "Yehia",
@@ -75,7 +80,8 @@
         "option1" : "Four",
         "option2" : "Three",
         "option3" : "Two",        
-        "answer" : "Three"
+        "answer" : "Ferrari",
+        "listen" : "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content."
     },
     {
         "type" : "Salma",
@@ -88,6 +94,7 @@
         "option1" : "Venus",
         "option2" : "Hingis",
         "option3" : "Martina Navratilova",       
-        "answer" : "Martina Navratilova"
+        "answer" : "Ferrari",
+        "listen" : "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content."
     }
    ]   

@@ -1,6 +1,6 @@
    [ 
     {   
-      "kitchenImg" : "https://www.knorr-kitchen.com/media/1124/dcc411f8-e372-4d06-912d-b523fb3f988c.jpg",
+      "productImg" : "https://www.knorr-kitchen.com/media/1124/dcc411f8-e372-4d06-912d-b523fb3f988c.jpg",
       "productLabel" : "كفته بانيه بالجبنة",
       "durationTime" : "40-30",
       "ratings" : 5.0,
@@ -16,7 +16,7 @@
       "isOffered" : true
     },
    {   
-      "kitchenImg" : "https://www.knorr-kitchen.com/media/1354/3.jpg",
+      "productImg" : "https://www.knorr-kitchen.com/media/1354/3.jpg",
       "productLabel" : "بيف استراجانوف",
       "durationTime" : "50-40",
       "ratings" : 3.0,
@@ -32,7 +32,7 @@
       "isOffered" : false
     },
    {   
-      "kitchenImg" : "https://www.knorr-kitchen.com/media/1364/chicken-lemon-butter.jpg",
+      "productImg" : "https://www.knorr-kitchen.com/media/1364/chicken-lemon-butter.jpg",
       "productLabel" : "كفته بانيه بالجبنة",
       "durationTime" : "30-20",
       "ratings" : 5.0,
@@ -48,7 +48,7 @@
       "isOffered" : false
     },
    {   
-      "kitchenImg" : "https://www.knorr-kitchen.com/media/1124/dcc411f8-e372-4d06-912d-b523fb3f988c.jpg",
+      "productImg" : "https://www.knorr-kitchen.com/media/1124/dcc411f8-e372-4d06-912d-b523fb3f988c.jpg",
       "productLabel" : "كفته بانيه بالجبنة",
       "durationTime" : "40-30",
       "ratings" : 5.0,
@@ -64,7 +64,7 @@
       "isOffered" : true
     },
    {   
-      "kitchenImg" : "https://www.knorr-kitchen.com/media/1124/dcc411f8-e372-4d06-912d-b523fb3f988c.jpg",
+      "productImg" : "https://www.knorr-kitchen.com/media/1124/dcc411f8-e372-4d06-912d-b523fb3f988c.jpg",
       "productLabel" : "كفته بانيه بالجبنة",
       "durationTime" : "40-30",
       "ratings" : 5.0,
@@ -80,7 +80,7 @@
       "isOffered" : true
     },
    {   
-      "kitchenImg" : "https://www.knorr-kitchen.com/media/1354/3.jpg",
+      "productImg" : "https://www.knorr-kitchen.com/media/1354/3.jpg",
       "productLabel" : "بيف استراجانوف",
       "durationTime" : "50-40",
       "ratings" : 3.0,
@@ -96,7 +96,7 @@
       "isOffered" : false
     },
    {   
-      "kitchenImg" : "https://www.knorr-kitchen.com/media/1364/chicken-lemon-butter.jpg",
+      "productImg" : "https://www.knorr-kitchen.com/media/1364/chicken-lemon-butter.jpg",
       "productLabel" : "كفته بانيه بالجبنة",
       "durationTime" : "60-50",
       "ratings" : 5.0,
@@ -112,7 +112,7 @@
       "isOffered" : false
     },
    {   
-      "kitchenImg" : "https://www.knorr-kitchen.com/media/1124/dcc411f8-e372-4d06-912d-b523fb3f988c.jpg",
+      "productImg" : "https://www.knorr-kitchen.com/media/1124/dcc411f8-e372-4d06-912d-b523fb3f988c.jpg",
       "productLabel" : "كفته بانيه بالجبنة",
       "durationTime" : "40-30",
       "ratings" : 5.0,
@@ -128,7 +128,7 @@
       "isOffered" : true
     },
    {   
-      "kitchenImg" : "https://www.knorr-kitchen.com/media/1124/dcc411f8-e372-4d06-912d-b523fb3f988c.jpg",
+      "productImg" : "https://www.knorr-kitchen.com/media/1124/dcc411f8-e372-4d06-912d-b523fb3f988c.jpg",
       "productLabel" : "كفته بانيه بالجبنة",
       "durationTime" : "40-30",
       "ratings" : 5.0,
@@ -144,7 +144,7 @@
       "isOffered" : true
     },
    {   
-      "kitchenImg" : "https://www.knorr-kitchen.com/media/1354/3.jpg",
+      "productImg" : "https://www.knorr-kitchen.com/media/1354/3.jpg",
       "productLabel" : "بيف استراجانوف",
       "durationTime" : "50-40",
       "ratings" : 3.0,
@@ -160,7 +160,7 @@
       "isOffered" : false
     },
    {   
-      "kitchenImg" : "https://www.knorr-kitchen.com/media/1364/chicken-lemon-butter.jpg",
+      "productImg" : "https://www.knorr-kitchen.com/media/1364/chicken-lemon-butter.jpg",
       "productLabel" : "كفته بانيه بالجبنة",
       "durationTime" : "40-30",
       "ratings" : 5.0,
@@ -176,7 +176,7 @@
       "isOffered" : false
     },
    {   
-      "kitchenImg" : "https://www.knorr-kitchen.com/media/1124/dcc411f8-e372-4d06-912d-b523fb3f988c.jpg",
+      "productImg" : "https://www.knorr-kitchen.com/media/1124/dcc411f8-e372-4d06-912d-b523fb3f988c.jpg",
       "productLabel" : "كفته بانيه بالجبنة",
       "durationTime" : "40-30",
       "ratings" : 5.0,

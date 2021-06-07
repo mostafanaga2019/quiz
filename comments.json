@@ -1,19 +1,11 @@
-[ 
-    {           
-        "comment" : "In commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content.",
-        "timeleft" : "2"
-        
-     }, 
-     {           
-        "comment" : "form of a document or a typeface without relying on meaningful content.",
-        "timeleft" : "3"
-        
-     },
-      {           
-        "comment" : " a typeface without relying on meaningful content.",
-        "timeleft" : "5"        
-     }          
-]
+{
+    "status": 1,
+    "message": "Success!",
+    "data": [
+        "القاهرة",
+        "الدقهلية"
+    ]
+}
         
   
    
